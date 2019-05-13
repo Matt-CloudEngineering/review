@@ -1,0 +1,22 @@
+/* This is the basic style adjustments to the website for ReviewPower.bi,
+ *as most of the main page styling is done via the boostrap/agency.ss file this is for stuff beyond the 
+ *parallax site like blog and additional page
+  */
+#main_txt {
+	padding:2rem;
+	width: 80%;
+	margin: 1rem 10%;
+	background: white;
+	margin-top: 10rem;
+}
+
+#body2 {
+  background-image: url('../img/header-bg.jpg');
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
