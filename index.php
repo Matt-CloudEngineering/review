@@ -187,4 +187,4 @@
         </div>
     </section>
 
-    <?php readfile('includeS/footer.php') ?>
+    <?php readfile('includes/footer.php') ?>
