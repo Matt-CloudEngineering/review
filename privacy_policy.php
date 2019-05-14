@@ -53,7 +53,7 @@
 
 	    			<p>Please note that the Website uses Google Analytics, a service that transmits website traffic data to Google servers in the United States.  Google Analytics does not identify individual Users or Visitors, or associate Users’ or Visitors’ IP addresses with any other data held by Google.  We use reports provided by Google Analytics to help us understand website traffic and web page usage.</p> 
 
-	    			        <p>4. Your Choices</p>
+	    			        <h4>4. Your Choices</h4>
 
 	    			<p>Users may opt out of receiving email advertisements and newsletters from us by clicking the “Opt Out” button at the bottom of this page or by clicking here.  For information about interest-based ads, or to opt-out of having web browsing information used for interest-based advertising purposes by companies that participate in the Digital Advertising Alliance, please visit www.aboutads.info/choices and http://optout.aboutads.info/.  If you wish to limit the collection of information for advertising based upon your browsing activities and interests, you may click http://preferences-mgr.truste.com.  To opt-out of targeted advertising on your mobile device, iOS users can click https://support.apple.com/en-us/HT205223 to learn how to limit ad tracking and Android users can click https://support.google.com/ads/answer/2662922?hl=en to learn how to opt-out of interest-based ads.  Please note that opting out of interest-based/targeted advertising does not limit all advertising.  You will continue to receive generic advertisements.</p>
 	    			  
