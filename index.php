@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>More Customers to Your Business with Positive Online Reviews - ReviewPower.Biz</title>
+    <title>Online Review Collection, Display and Management to Grow Business  - ReviewPower.Biz</title>
     <meta name="description" content="Reviews help people make informed decisions about your business. Our tool makes getting reviews, gathering your reviews and formatting them in Structured Microdata easy">
 
     <?php readfile ('head_plus.php') ?>
