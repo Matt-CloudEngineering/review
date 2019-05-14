@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Our privacy policy outlines how we operate our website and how we utilize the data submitted via our forms">
-	<title>ReviewPower.biz Privacy Policy | Protecting Consumers</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Our privacy policy outlines how we operate our website and how we utilize the data submitted via our forms">
+<title>ReviewPower.biz Privacy Policy | Protecting Consumers</title>
 
-	<?php readfile ('head_plus.php') ?>
-	
-	<div class="container">
-		<div id="body2">
-		    <?php readfile ('includes/nav.php') ?>
+<?php readfile ('head_plus.php') ?>
 
+	<div id="body2">
+	    <?php readfile ('includes/nav2.php') ?>
+
+	    <div class="container">
 	    	<div class="col-xs-12">
 	    		<div id="main_txt">
 	    			<h1>ReviewPower.biz Privacy Statement</h1>
 
-	    			<h4>Effective Date: January 18th, 2019</h4>
+	    			<h5 style="text-align: center">Effective Date: January 18th, 2019</h5 style="text-align: center">
 
 	    			<p>ReviewPower.biz (we”, “us”, or “our”) is committed to respecting your privacy.  We have developed this Privacy Statement (this “Statement”) to describe how we may collect information about you through your online interactions with us and use of our website ReviewPower.biz (the “Website”), how we use information, and how and under what circumstances we share that information.</p>
 
@@ -80,7 +80,7 @@
 
 	    			<p>Third-Parties may use Flash cookies and HTML5 to collect and store information.  Various browsers may offer their own management tools for removing HTML5.  To manage Flash cookies, please click here:</p>
 
-	    			<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a>
+	    			<a style="color: blue;" href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a>
 
 	    			<p>“Do-Not-Track” (“DNT”) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third-parties.  When you choose to turn on the DNT setting in your browser, your browser sends a special signal to websites, ad networks, plug-in providers, and other web services you encounter while browsing to stop tracking your activity via cookies or other tracking technologies.  We and many Third-Parties do not currently respond to Do-Not-Track browser signals or mechanisms.  See the privacy policies of independent operators with respect to how they respond to DNT signals, as their policies may differ from our own.</p>
 
@@ -104,8 +104,8 @@
 	    			<p>The Effective Date of this Statement is set forth at the top of this Statement.  We may from time to time make changes to this Statement to reflect changes in legal or regulatory obligations or changes in the manner in which we collect and use Personal Information.  We will notify you by posting the modified Statement, and its effective date, on this page.  For this reason, you should regularly review this Statement and note the effective date.  Your continued use of the Website after the Effective Date constitutes your acceptance of the amended Statement.  The amended  Statement supersedes all previous versions.</p>
 	    		</div>
 	    	</div>	
-		</div>
-    </div>
-
+	    </div>
+	</div>
+	<?php readfile('includes/footer.php') ?>
 </body>
 </html>

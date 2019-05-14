@@ -16,7 +16,7 @@
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                        <li><a href="#">Privacy Policy</a>
+                        <li><a href="privacy_policy.php">Privacy Policy</a>
                         </li>
                     </ul>
                 </div>
