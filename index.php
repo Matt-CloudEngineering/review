@@ -17,7 +17,7 @@
             <div class="intro-text">
                 <div class="intro-lead-in">Review Power is all about harnessing your online reputation to increase your business.</div>
                 <div class="intro-heading">Are you ready to proactively address your reviews?</div>
-                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
+                <a href="#reviews" class="page-scroll btn btn-xl">Check YOUR Reviews</a>
             </div>
         </div>
     </header>
@@ -37,8 +37,8 @@
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Reviews Search Engines Notice</h4>
-                    <p class="text-muted">Our application provides your aggreagated reviews from multiple platforms in a format agreed upon by the major Search Engines known as structured microdata. This means that all search engines will recognize your outsdanding reviews for what they are not just random website text.</p>
+                    <h4 class="service-heading">Get Reviews Search Engines Notice</h4>
+                    <p class="text-muted">Our application provides your aggregated reviews from multiple platforms in a format agreed upon by the major Search Engines known as structured microdata (<a href="schema.org">schema.org</a>). This means that all search engines will recognize your outsdanding reviews for what they are not just random website text.</p>
                 </div>
                 <div class="col-md-3">
                     <span class="fa-stack fa-4x">
@@ -89,7 +89,7 @@
               <div class="col-sm-12">
                 <div class="thumbnail">
                   <h3>Your <strong>Review Listing Strength</strong> is a measure of the relevant KPIs for Reviews and Reputation Management</h3>
-                  <p>The ReviewPower tool will catalog all of your reviews by platfrom. This shows you were you need to improve your reputation both in Average Rating as well as quantity of reviews.</p>
+                  <p>The ReviewPower tool tabulates your reviews by platfrom. This shows you were you need to improve your reputation both in Average Rating as well as quantity of reviews. The ReviewPower.biz API allows you to dynamically link your review data to into your company Business Intelligence system.</p>
                   <img src="img/review_strength.png" alt="San Francisco">                                   
                 </div>
               </div>
@@ -98,7 +98,7 @@
               <div class="col-sm-12">
                 <div class="thumbnail">
                   <h3>Your Review Report</h3>
-                  <p>The review report breakds down your reviews and reputation by locations. Their aggregate review rating based on the average rating and number of reviews</p>
+                  <p>The review report breaks down your reviews and reputation by locations. Their aggregate review rating based on the average rating and number of reviews</p>
                   <img src="img/review_reporting.png" alt="San Francisco">                  
                 </div>
               </div>
