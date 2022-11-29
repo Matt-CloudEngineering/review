@@ -79,52 +79,54 @@
             <div class="row text-center">
               <div class="col-sm-12">
                 <div class="thumbnail">
-                  <img src="img/reviews.png" alt="Paris">
-                  <p><strong>Aggregate Reviews</strong></p>
-                  <p>The ReviewPower tool will collect and display your reviews on your site</p>
+                  <h3>Aggregating Reviews on Your Website</h3>
+                  <p>The ReviewPower tool will collect and display your reviews on your site. This will include reviews from Google, Yelp, Facebook and any other applicable platforms that you select in setup.</p>
+                  <img src="img/reviews.png" alt="Paris">                  
                 </div>
               </div>
             </div>
             <div class="row text-center">
               <div class="col-sm-12">
                 <div class="thumbnail">
-                  <img src="img/review_strength.png" alt="San Francisco">
-                  <p><strong>Your Review Listing Strength</strong></p>
-                  <p>The ReviewPower tool will catalog all of your reviews in all their locations</p>
+                  <h3>Your <strong>Review Listing Strength</strong> is a measure of the relevant KPIs for Reviews and Reputation Management</h3>
+                  <p>The ReviewPower tool will catalog all of your reviews by platfrom. This shows you were you need to improve your reputation both in Average Rating as well as quantity of reviews.</p>
+                  <img src="img/review_strength.png" alt="San Francisco">                                   
                 </div>
               </div>
             </div>
             <div class="row text-center">
               <div class="col-sm-12">
                 <div class="thumbnail">
-                  <img src="img/review_reporting.png" alt="San Francisco">
-                  <p><strong>A Review Report</strong></p>
-                  <p>Based on the number of each star level you have and there locations</p>
+                  <h3>Your Review Report</h3>
+                  <p>The review report breakds down your reviews and reputation by locations. Their aggregate review rating based on the average rating and number of reviews</p>
+                  <img src="img/review_reporting.png" alt="San Francisco">                  
                 </div>
               </div>
             </div>
             <div class="row text-center">
               <div class="col-sm-12">
                 <div class="thumbnail">
-                  <img src="img/stars_summary.png" alt="New York">
-                  <p><strong>Star Review Collection</strong></p>
-                  <p>Clicking on the star level of the review you'll leave opens either the Review Locations or The Contact Form based on whether or not the user intends to leave a negative or positive review</p>
+                  <h3>Star Review Collection</h3>
+                  <p>Using the star review technique you can gatekeep bad reviews, by the star level</h3>
+                  <img src="img/stars_summary.png" alt="New York">                                    
                 </div>
               </div>
+            </div>
             <div class="row text-center">
               <div class="col-sm-12">
                 <div class="thumbnail">
-                  <img src="img/review_locations.png" alt="New York">
-                  <p><strong>All Your Review Locations Together</strong></p>
-                  <p>Selecting the social media or review site of your clients choice</p>
-                </div>
-              </div>
-            <div class="row text-center">
-              <div class="col-sm-12">
-                <div class="thumbnail">
+                  <h3>Reputation Management through Solving Customer Issues</h3>
+                  <p>Presents businesses with the opportunity to rectify an unhappy customer before they leave a bad review. This is the key to improving your overall reputation online!</p>
                   <img src="img/dissatisfied.png" alt="San Francisco">
-                  <p><strong>Dissatisfied Clients are Directed to A Contact Form</strong></p>
-                  <p>Presents businesses with the opportunity to rectify an unhappy customer before they leave a bad review</p>
+                </div>
+              </div>
+            </div>
+            <div class="row text-center">
+              <div class="col-sm-12">
+                <div class="thumbnail">
+                  <h3>All Your Review Locations Together</h3>
+                  <p>As the business owner you get to select which platforms you want to collect and display reviews on ensuring that your reputation is readily avaailble to future customers. </p>
+                  <img src="img/review_locations.png" alt="New York">
                 </div>
               </div>
             </div>
