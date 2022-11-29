@@ -125,7 +125,7 @@
               <div class="col-sm-12">
                 <div class="thumbnail">
                   <h3>All Your Review Locations Together</h3>
-                  <p>As the business owner you get to select which platforms you want to collect and display reviews on ensuring that your reputation is readily availble to future customers. </p>
+                  <p>As the business owner you get to select which platforms you want to collect and display reviews on ensuring that your reputation is readily available to future customers. </p>
                   <img src="img/review_locations.png" alt="Shows the platforms where you are looking to collect reviews like Google or Facebook">
                 </div>
               </div>
