@@ -107,7 +107,7 @@
               <div class="col-sm-12">
                 <div class="thumbnail">
                   <h3>Star Review Collection</h3>
-                  <p>Using the star review technique you can gatekeep bad reviews, by the star level</h3>
+                  <p>Using the star review technique you can gatekeep bad reviews, by the star level</p>
                   <img src="img/stars_summary.png" alt="New York">                                    
                 </div>
               </div>
