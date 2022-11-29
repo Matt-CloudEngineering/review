@@ -77,21 +77,25 @@
                 </div>                
             </div>
             <div class="row text-center">
-              <div class="col-sm-4">
+              <div class="col-sm-12">
                 <div class="thumbnail">
                   <img src="img/reviews.png" alt="Paris">
                   <p><strong>Aggregate Reviews</strong></p>
                   <p>The ReviewPower tool will collect and display your reviews on your site</p>
                 </div>
               </div>
-              <div class="col-sm-4">
+            </div>
+            <div class="row text-center">
+              <div class="col-sm-12">
                 <div class="thumbnail">
                   <img src="img/review_strength.png" alt="San Francisco">
                   <p><strong>Your Review Listing Strength</strong></p>
                   <p>The ReviewPower tool will catalog all of your reviews in all their locations</p>
                 </div>
               </div>
-              <div class="col-sm-4">
+            </div>
+            <div class="row text-center">
+              <div class="col-sm-12">
                 <div class="thumbnail">
                   <img src="img/review_reporting.png" alt="San Francisco">
                   <p><strong>A Review Report</strong></p>
@@ -100,21 +104,23 @@
               </div>
             </div>
             <div class="row text-center">
-              <div class="col-sm-4">
+              <div class="col-sm-12">
                 <div class="thumbnail">
                   <img src="img/stars_summary.png" alt="New York">
                   <p><strong>Star Review Collection</strong></p>
                   <p>Clicking on the star level of the review you'll leave opens either the Review Locations or The Contact Form based on whether or not the user intends to leave a negative or positive review</p>
                 </div>
               </div>
-              <div class="col-sm-4">
+            <div class="row text-center">
+              <div class="col-sm-12">
                 <div class="thumbnail">
                   <img src="img/review_locations.png" alt="New York">
                   <p><strong>All Your Review Locations Together</strong></p>
                   <p>Selecting the social media or review site of your clients choice</p>
                 </div>
               </div>
-              <div class="col-sm-4">
+            <div class="row text-center">
+              <div class="col-sm-12">
                 <div class="thumbnail">
                   <img src="img/dissatisfied.png" alt="San Francisco">
                   <p><strong>Dissatisfied Clients are Directed to A Contact Form</strong></p>
