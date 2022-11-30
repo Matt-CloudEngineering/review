@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/header-bg.jpg');
+  background-image: url('../img/header-bg.webp');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -303,7 +303,7 @@ section h3.section-subheading {
   text-transform: none;
 }
 #reviews {
-  background-image: url("../img/carbon_texture1870.jpg");
+  background-image: url("../img/carbon_texture1870.webp");
   z-index: 20;
 }
 #portfolio .portfolio-item {
@@ -559,7 +559,7 @@ aside.clients img {
 }
 section#contact {
   background-color: #222222;
-  background-image: url('../img/map-image.png');
+  background-image: url('../img/map-image.webp');
   background-position: center;
   background-repeat: no-repeat;
 }
