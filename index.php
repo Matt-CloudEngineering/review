@@ -81,7 +81,7 @@
                 <div class="thumbnail">
                   <h3>Aggregating Reviews on Your Website</h3>
                   <p>The ReviewPower tool will collect and display your reviews on your site. This will include reviews from Google, Yelp, Facebook and any other applicable platforms that you select in setup.</p>
-                  <img src="img/reviews.png" alt="Shows reviews from Google, Facebook, and Yelp for a Business" title="collected Google Reviews, Facebook Reviews, Yelp Reviews">                  
+                  <img src="img/reviews.webp" alt="Shows reviews from Google, Facebook, and Yelp for a Business" title="collected Google Reviews, Facebook Reviews, Yelp Reviews">                  
                 </div>
               </div>
             </div>
@@ -90,7 +90,7 @@
                 <div class="thumbnail">
                   <h3>Your Review Listing Strength contains the relevant KPIs for Reviews and Reputation Management</h3>
                   <p>The ReviewPower tool tabulates your reviews by platform. This shows you were you need to improve your reputation both in Average Rating as well as quantity of reviews. The ReviewPower.biz API allows you to dynamically link your review data to into your company Business Intelligence system.</p>
-                  <img src="img/review_strength.png" alt="Table of your reviews by platform like google my busines, quantity, and rating" title="Listing Strenght Table">                                   
+                  <img src="img/review_strength.webp" alt="Table of your reviews by platform like google my busines, quantity, and rating" title="Listing Strenght Table">                                   
                 </div>
               </div>
             </div>
@@ -99,7 +99,7 @@
                 <div class="thumbnail">
                   <h3>Your Review Report</h3>
                   <p>The review report breaks down your reviews and reputation by locations. Providing aggregate review rating and number of reviews by location as well as the change over time.</p>
-                  <img src="img/review_reporting.png" alt="Summarized Review Report for each business location" title="Location Review Reporting">                  
+                  <img src="img/review_reporting.webp" alt="Summarized Review Report for each business location" title="Location Review Reporting">                  
                 </div>
               </div>
             </div>
@@ -108,7 +108,7 @@
                 <div class="thumbnail">
                   <h3>Star Review Collection</h3>
                   <p>Using the star review technique you can gatekeep bad reviews, by the star level</p>
-                  <img src="img/stars_summary.png" alt="Visitors select your review rating by number of stars" title="5 Star Review Rating">                                    
+                  <img src="img/stars_summary.webp" alt="Visitors select your review rating by number of stars" title="5 Star Review Rating">                                    
                 </div>
               </div>
             </div>
@@ -117,7 +117,7 @@
                 <div class="thumbnail">
                   <h3>Reputation Management through Solving Customer Issues</h3>
                   <p>Presents businesses with the opportunity to rectify an unhappy customer before they leave a bad review. This is the key to improving your overall reputation online!</p>
-                  <img src="img/dissatisfied.png" alt="Dissatisfied customer contact form to message the business owner" title="This form sends a message to the business owner and gives them an opportunity to fix any problems expernced by the customer">
+                  <img src="img/dissatisfied.webp" alt="Dissatisfied customer contact form to message the business owner" title="This form sends a message to the business owner and gives them an opportunity to fix any problems expernced by the customer">
                 </div>
               </div>
             </div>
@@ -126,7 +126,7 @@
                 <div class="thumbnail">
                   <h3>All Your Review Locations Together</h3>
                   <p>As the business owner you get to select which platforms you want to collect and display reviews on ensuring that your reputation is readily available to future customers. </p>
-                  <img src="img/review_locations.png" alt="Shows the platforms where you are looking to collect reviews like Google or Facebook">
+                  <img src="img/review_locations.webp" alt="Shows the platforms where you are looking to collect reviews like Google or Facebook">
                 </div>
               </div>
             </div>
