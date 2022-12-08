@@ -31,7 +31,7 @@
     <div class="cookie-modal modal fade" id="cookieModal" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
-                <button type="button" class="close" data-dismiss="modal" onclick="setCookie()">&times;</button>
+                <button type="button" class="btn-close-white" data-dismiss="modal" onclick="setCookie()">Close</button>
             </div>
             <div class="container" style="padding: 1rem;">
                 <div class="row">
