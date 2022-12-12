@@ -140,7 +140,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading" style="color:white">Your Online Reviews Report</h2>
-                    <div class="reviewmgr-lookup" data-url="https://reviewmgr.com/cloudengineeringbiz"></div><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.reviewmgr.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document, "script", "reviewmgr-wjs");</script>
+                    <div class="reviewmgr-lookup" style="background-color: rgba(90,90,90,0.9);" data-url="https://reviewmgr.com/cloudengineeringbiz"></div><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.reviewmgr.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document, "script", "reviewmgr-wjs");</script>
                 </div>
             </div>
         </div>            
