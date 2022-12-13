@@ -31,13 +31,13 @@
     <div class="cookie-modal modal fade" id="cookieModal" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
-                <button type="button" class="btn-close-white" data-dismiss="modal" onclick="setCookie()">Close</button>
+                <button type="button" class="btn-close-white" style="float:right;" data-dismiss="modal" onclick="setCookie()">X</button>
             </div>
             <div class="container" style="padding: 1rem;">
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1">
                         <p><span style="font-weight: bold;font-size: larger;">Cookies Policy</span>&nbsp;This website uses cookies to collect user behavior. We do not share or display this information with anyone!</p>
-                        <p><span style="font-weight: bold;font-size: larger;">User Data Policy</span>&nbsp;We collect user data on this site for the form fills to request reviews and contact us. That data is never shared with anyone outside of this agency and is encrypted!</p>                             
+                        <p><span style="font-weight: bold;font-size: larger;">User Data Policy</span>&nbsp;We collect user data on this site for the form fills to request reviews and contact us. That data is never shared with anyone outside of this agency and is encrypted!</p>                             	  <center><button type="button" class="btn-close-white" style="background-color:#fed136" data-dismiss="modal" onclick="setCookie()">Close</button></center>
                     </div>
                 </div>
             </div>
